@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "KOOX",
+    "slug": "KOOX",
+    "version": "2",
+    "orientation": "portrait",
+    "icon": "./pic.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.yd.ko"
+    }
+  }
+}
